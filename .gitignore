@@ -24,3 +24,9 @@ Thumbs.db
 *.env
 .vscode/
 .idea/
+
+logs/
+artifacts/
+
+# config.yaml
+config/config.yaml 
