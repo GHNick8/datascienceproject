@@ -27,3 +27,5 @@ Thumbs.db
 
 logs/
 artifacts/
+
+src/datascience/components/model_evaluation.py
